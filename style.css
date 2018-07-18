@@ -100,7 +100,7 @@ h1 {
 /* Jumbotron & Title */
 
     .jumbotron {
-    background: url('img/bread.jpg');
+    background: url('../img/bread.jpg');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -190,7 +190,7 @@ h1 {
 
 
     .parallax-window {
-    background: url('img/Breakfast.jpg');
+    background: url('../img/Breakfast.jpg');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -218,7 +218,7 @@ h1 {
 
 
     .parallax-window1 {
-    background: url('img/Lunch.jpg');
+    background: url('../img/Lunch.jpg');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
